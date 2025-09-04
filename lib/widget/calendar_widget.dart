@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:syncfusion_flutter_calendar/calendar.dart';
-import 'package:calenar/provider/event_provider.dart';
-import 'package:calenar/model/event_data_source.dart';
-import 'package:calenar/widget/tasks_widget.dart';
+import 'package:calendar/provider/event_provider.dart';
+import 'package:calendar/model/event_data_source.dart';
+import 'package:calendar/widget/tasks_widget.dart';
 
 class CalendarWidget extends StatelessWidget {
   @override

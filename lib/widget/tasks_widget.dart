@@ -1,10 +1,10 @@
-import 'package:calenar/model/event_data_source.dart';
+import 'package:calendar/model/event_data_source.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:syncfusion_flutter_calendar/calendar.dart';
 import 'package:syncfusion_flutter_core/theme.dart';
-import 'package:calenar/provider/event_provider.dart';
-import 'package:calenar/page/event_viewing_page.dart';
+import 'package:calendar/provider/event_provider.dart';
+import 'package:calendar/page/event_viewing_page.dart';
 
 class TasksWidget extends StatefulWidget {
   @override

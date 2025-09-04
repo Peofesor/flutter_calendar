@@ -1,4 +1,4 @@
-import 'package:calenar/model/event.dart';
+import 'package:calendar/model/event.dart';
 import 'package:flutter/material.dart';
 import 'package:syncfusion_flutter_calendar/calendar.dart';
 

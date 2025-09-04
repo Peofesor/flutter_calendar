@@ -1,9 +1,9 @@
-import 'package:calenar/widget/calendar_widget.dart';
+import 'package:calendar/widget/calendar_widget.dart';
 import 'package:flutter/material.dart';
-import 'package:calenar/page/event_editing_page.dart';
+import 'package:calendar/page/event_editing_page.dart';
 import 'package:flutter/services.dart';
 import 'package:provider/provider.dart';
-import 'package:calenar/provider/event_provider.dart';
+import 'package:calendar/provider/event_provider.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();

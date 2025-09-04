@@ -1,4 +1,4 @@
-import 'package:calenar/model/event.dart';
+import 'package:calendar/model/event.dart';
 import 'package:flutter/cupertino.dart';
 
 class EventProvider extends ChangeNotifier {

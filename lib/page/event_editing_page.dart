@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:calenar/model/event.dart';
-import 'package:calenar/utils.dart';
+import 'package:calendar/model/event.dart';
+import 'package:calendar/utils.dart';
 import 'package:provider/provider.dart';
-import 'package:calenar/provider/event_provider.dart';
+import 'package:calendar/provider/event_provider.dart';
 
 class EventEditingPage extends StatefulWidget {
   final Event? event;
